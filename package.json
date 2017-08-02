@@ -1,0 +1,19 @@
+{
+  "name": "vue-mixin-loader",
+  "version": "0.0.1",
+  "description": "vue mixin.less webpack loader",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "wangfeia"
+  },
+  "dependencies": {
+    "less-mixin-loader": "^0.0.1",
+    "loader-utils": "^1.1.0"
+  }
+}
